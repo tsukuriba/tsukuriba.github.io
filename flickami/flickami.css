@@ -11,6 +11,11 @@
 .soon { display: inline-flex; align-items: center; gap: 8px; padding: 10px 18px; border-radius: 999px;
   background: var(--ink); color: var(--paper); font-weight: 700; font-size: 15px; }
 .soon small { font-weight: 400; opacity: 0.8; font-size: 13px; }
+/* App Store のバッジ（Apple 公式の SVG。高さ 40px 以上・まわりに あきを取る ── App Store マーケティングガイドライン） */
+.appstore { display: inline-block; line-height: 0; border-radius: 9px; }
+.appstore img { display: block; height: 48px; width: auto; }
+.appstore:focus-visible { outline: 2px solid var(--ink); outline-offset: 3px; }
+.devices { font-size: 13px; color: var(--muted); }
 .facts { display: flex; flex-wrap: wrap; gap: 8px; margin: 0; padding: 0; list-style: none; }
 .facts li { border: 1px solid var(--rule); border-radius: 999px; padding: 4px 12px; font-size: 13px; color: var(--muted); background: var(--card); }
 .shots { display: grid; grid-auto-flow: column; grid-auto-columns: minmax(170px, 210px); gap: 12px;
