@@ -1,0 +1,7 @@
+﻿Name,Effect,Multiplier,Can break
+Use no smash,The vow breaks the moment you smash,×1.6,Can break
+Use no special,The vow breaks the moment you use it,×1.9,Can break
+Can’t shoot until half HP,Can shoot only at half HP or less,×2.4,Cannot break
+Touch no wall,The vow breaks the moment your own shot touches a wall (being pushed into one doesn’t count),×1.7,Can break
+Hit only weaknesses,It breaks the moment you hit a non-weakness,×1.9,Can break
+No moving after the special,"Special power ×3.5. But after using it, they cannot move again this battle",Special ×3.5,Cannot break

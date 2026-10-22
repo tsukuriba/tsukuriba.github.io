@@ -1,0 +1,65 @@
+﻿No.,Special,Gauge,Special effect,Owner,Element
+1,Big Bang · True,60,"Four hits on every enemy in range; each use heats the forge! (True: starts at heat 1, up to 4 — ATK ×2.8)",Blaze · Forge,Fire
+5,Whirlpool Dash · True,40,Charges in at 2.4× speed!,Cyclone · Vortex,Water
+10,Ground Breaker · True,40,"Breaks nearby walls, sticky walls and poison! (True: gauge +5% per piece broken)",Ironrock · Crag,Leaf
+15,Mincing Cuts · True,100,"Slices the nearest enemy 6 times; if it falls, the rest go to the next one! (True: 7 slices)",Ignis · Inferno,Fire
+16,Guardian Veil · True,60,Wraps the party in a veil: damage taken -70% until the enemy turn ends!,Phoenix · Undying,Fire
+25,Light’s Judgment · True,80,"Strikes every enemy; the more elements, the harder! (True: Marks the most common element)",Lumen · Daybreak,Light
+28,Time Rift · True,100,"Time stops! Every enemy on screen is hit 8 times (True: 9 times, and enemies stay delayed)",Siren · Sanctus,Light
+33,Cross Slash · True,60,"Cuts down a cross; double damage against a wall! (True: Marks wall-side enemies, power ×1.3)",Nimbus · Thicket,Dark
+37,Nebula Cloak · True,80,"Becomes a nebula until your next shot ends: passing enemies curve toward you, and your hits deal ×1.3!",Nebula · Eclipse,Dark
+42,Heavy Anchor · True,80,"Drops anchor: for 3 turns all allies are heavy — hard to push, and they shove what they hit!",Sea Dragon · Abyss,Water
+44,Ancient Seeds · True,80,"Plants seeds on every enemy; when one falls, its seed bursts on those nearby! (True: seeds last 4 turns)",Evergreen · Great Tree,Leaf
+50,Folding Blade · True,80,"Pins the nearest enemy with a Mark and strikes; the lower your HP, the harder! (True: up to ×3.5)",Pitch · Gloom,Dark
+53,Plumb Beam · True,80,A beam that bends off walls and Marks; stronger with each bend! (True: bends up to a 4th time),Alabaster · Flash,Light
+54,Whetstone · True,80,"Sharpens the blade: on your next shot, ATK +40% and heals on every KO! (True: heal ×1.3)",Obsidian · Fang,Dark
+55,Diamond Blast · True,40,"Diamond-shaped blast; the closer to the center, the harder! (True: washes center enemies outward)",Skyward · Ascent,Water
+109,Firstborn Flame · True,80,"Burns away Poison and sticky walls and Burns enemies nearby! (True: leaves fire floors, 2 turns)",Kagutsuchi · Sear,Fire
+110,Thunderbolt · True,60,"Pierces a vertical line; the fewer enemies, the harder! (True: Marks a lone target, power ×1.3)",Takemika · Bolt,Fire
+111,Tide Road · True,80,"The moment you release, pulls every enemy on screen to the center column and turns it into a tide road (allies speed up, 2 turns)!",Watatsumi · Tide,Water
+112,Purifying River · True,80,"A pure river flows across (3 turns): allies in it heal, enemies get swept downstream! (True: Wets enemies on it)",Seoritsu · Rapids,Water
+113,Roots Rise · True,80,Three roots rise in columns; enemies crossing take damage and get pulled in! (True: roots last 4 turns),Kukunochi · Root,Leaf
+114,Earth Pusher · True,80,"Breaks gimmicks ahead and shoves enemies; the more it pushes, the harder! (True: up to ATK ×1.0)",Haniyasu · Clay,Leaf
+115,Cave Door Opens · True,100,"The cave door opens: hits every enemy, ×2 on weakened ones! (True: ×2 under 60% HP)",Amateru · Sun,Light
+116,Drawbridge · True,80,Lowers a drawbridge ahead (3 turns). Allies crossing it get ×1.5 momentum! (True: ×1.7),Saruta · Crossroads,Light
+117,Calamity Swirl · True,100,"Hits every enemy; the more enemies, the more all allies heal! (True: heal ×1.5)",Magatsu · Bane,Dark
+118,Lunar Calendar · True,80,A lunar calendar that changes shape each round; the full moon delays enemies! (True: Marks too),Tsukuyomi · Moon,Dark
+119,Bellows · True,60,"Doubles this shot's smashes; when you stop, a blast grows with each smash used! (True: +1 more)",Mahitotsu · Anvil,Fire
+126,Stardust · True,60,Scatters as many sparks of light as your current combo! (True: 2 more sparks),Uzume · Revel,Light
+129,Gathering Shadows · True,80,"Shadows race back from where you stopped, hitting enemies on the way! (True: heal 5% HP per shadow)",Kuraokami · Shadow,Dark
+134,Meteor Fall · True,80,"Crashes onto the enemy with the most HP; the farther you jump, the harder! (True: leaves a fire floor)",Okitsuhiko · Stove,Fire
+135,Retrace · True,80,"Retraces every path your allies flew this round, hitting enemies on them again! (True: gauge +5% per path)",Hayaakitsu · Climb,Water
+145,Flame Split · True,80,"When you stop, 70% of the damage this shot dealt rains down, split evenly among the enemies left!",Mikahayahi · Gush,Fire
+147,Seed Scatter · True,80,"For the next 2 rounds, every ally leaves a seed where they shoot (once it ripens, you get another shot)!",Mitoshi · Plenty,Leaf
+153,Rain of Fire · True,60,"Burns every enemy; the fewer there are, the hotter! (True: lasts 4 turns)",Homusubi · Blast,Fire
+156,Riptide · True,80,Makes the nearest enemy Wet and launches it; whatever it slams takes ATK ×1.5! (True: launched ×1.3 faster),Toyotama · Pearl,Water
+159,Spore Burst · True,80,"Spores burst from the most Poisoned enemy, copying its Poison onto those around! (True: copies 1 more)",Kayanohime · Vine,Leaf
+161,Every Corner · True,80,Light curves around to hit every enemy hidden from this ally's sight! (True: ATK ×0.5 on visible ones too),Ishikori · Mirror,Light
+170,Wellspring · True,60,Leaves a wellspring here for 5 turns. Each time an ally touches it: gauge +30% (up to 3 per shot)!,Mizuhanome · Fount,Water
+175,Shake Down · True,60,"Shakes every enemy with mistletoe on it, knocking loose one gem per stage it has grown, plus one!",Kijimuna · Lodge,Leaf
+181,Fire Dice · True,60,Rolls 1 of 3: a big blast around you / party gauge +40% / this shot’s power ×2! (True: ×1.3 range & power for the big blast),Hoderi · Dice,Fire
+189,Sunrise · True,80,"Every ally who hasn't moved yet smashes once on the spot (no move or smash used)! (True: you too, at half power)",Naganaki · Clarion,Light
+192,Wedge Lock · True,60,"For this shot and the next two, this ally’s vow holds even if broken!",Nue · Chimera,Dark
+201,Groundwork · True,80,"Replants every ally around this one. On the next move, everyone shoots from here (True: replanted allies take -30% damage until the enemy turn)!",Isotakeru · Grove,Leaf
+202,Full Bloom · True,80,"Sets off everything your allies have placed on the board, once, right where it is! (True: gauge +5% each)",Sakuyahime · Bloom,Leaf
+207,Starlight · True,80,"Light rains on enemies inside your allies' triangle; the wider, the stronger! (True: ATK ×1.0 even when small)",Mikaboshi · Star,Light
+208,Even Footing · True,80,"For this round, every ally’s base ATK rises to 1.2× the highest!",Omoikane · Wisdom,Light
+216,Collect the Debt · True,80,"Puts a Mark on the enemy that has wounded you most. This round, any hit on it wins back 1.3× every wound it dealt!",Shiotsuchi · Undo,Water
+217,Rebound Tide · True,60,"No damage until the next enemy turn ends. The more you’re struck, the harder your counterblow (True: ×1.5)!",Isora · Reef,Water
+228,Torch Relay · True,80,"After your shot, the two nearest allies each get another shot right away, one after the other!",Hosuseri · Vigor,Fire
+231,Shoal Surge · True,80,Nearby allies all launch with you at the same angle and speed! (True: everyone ×1.2 speed),Mikumari · Relay,Water
+233,Scion · True,40,"For 2 rounds, this ally also uses the nearest ally’s ability!",Kamimusubi · Bond,Leaf
+234,Deep Roots · True,80,"Until the next enemy turn ends, every ally survives a lethal blow with 20% HP left!",Ukemochi · Bud,Leaf
+236,Named Arrows · True,80,Three arrows of light fly at your named enemy from anywhere (the named ×2 applies)! (True: 4 arrows),Yatagarasu · Guide,Light
+246,Dark Credit · True,60,Strikes the nearest enemy harder the lower the gauge after firing (harder in debt)! (True: up to ATK ×4.4),Yomotsu · Debt,Dark
+247,Payback · True,60,"Pays your grudge back to enemies that hit your allies, shared by how hard each hit! (True: Marks them too)",Aramitama · Spite,Dark
+248,Soul Call · True,80,"Fires every fallen ally's special in a row; if none fell, strikes nearby enemies! (True: called at 60% power)",Izanami · Legacy,Dark
+251,Crimson Blaze · True,80,Ruby flames fill a wide circle; stronger for each special your team has used! (True: starts 2 uses ahead),Ruby · Blaze,Fire
+252,Jade Roots · True,80,"Jade roots race across and down; farther enemies take more! (True: grass trails on the roots, 3 turns)",Jade · Qilin,Leaf
+253,Lapis Rain · True,80,"Lapis rain Wets and hits every enemy and heals your allies! (True: falls 3 times, not 2)",Lapis · Downpour,Water
+254,Canopy Light · True,80,Light floods the board; enemies below take double! (True: allies below take -20% damage),Canopy · Zenith,Light
+255,Heaven Arrows · True,80,Looses arrows to the board's edge; farther enemies take more and get Marked! (True: up to ATK ×3.0),Hoori · Ridge,Leaf
+256,Forge Hammer · True,80,"Hammers the nearest enemy, then strikes the same spot again after the enemy turn! (True: 2nd strike ATK ×2.0)",Kanayago · Steel,Fire
+257,Heaven's Edge · True,80,"One stroke cuts across the board: heavy damage to the row, double vs Wet! (True: ×1.5 wider blade)",Ohabari · Heaven,Water
+258,Thunder Drums · True,80,Lightning strikes 3 times at random enemies across the board. Double vs Wet! (True: 4 times),Narukami · Resound,Light
+259,Great Jaws · True,80,"Bites the enemy with the most HP! On a kill, it leaps to the next (up to 3). (True: up to 4)",Makami · Pack,Dark

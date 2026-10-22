@@ -1,0 +1,260 @@
+﻿No.,Ability,Ability effect (Lv1),Capacity,Owner,Element
+1,Hot Blood,Always: ATK +15%,2,Blaze,Fire
+2,Ring of Flame,Your smash ring stays behind as a ring of fire (1 round). Enemies touching its edge take 30% of ATK and Burn,3,Spark,Fire
+3,Bellows Keg,"Places 2 kegs each time it stops (2 rounds, up to 4). An ally who breaks one gets +40% power for that shot, and speed back to 80% of the launch",3,Ember,Fire
+4,Lunge,Smashing doesn't stop it: it blasts forward again (70% of launch speed),3,Beacon,Fire
+5,Follow-Up,3+ combo: damage +40%,3,Cyclone,Water
+6,Acrobat,Always: pull +20%,1,Droplet,Water
+7,Ice Chunk,"Places 2 blocks of ice each time it stops (2 rounds, up to 4). When one breaks, shards run in 4 directions: 35% of ATK and Wet to enemies they touch",3,Stillwater,Water
+8,Ebb Tide,"Before smashing, pulls in enemies within 1.4× the ring, then hits them (pulled enemies get Wet)",3,Shore,Water
+9,Dig In,Survives a lethal blow at 1 HP (once per battle),4,Woody,Leaf
+10,Bedrock,Always: weight +50%,2,Ironrock,Leaf
+11,Dappled Light,"In reserve: each round start, every ally on the field recovers 10% of their max HP",3,Daybreak,Leaf
+12,Leaf Dance,"Once, as it slows to a stop, it rides the wind toward the nearest enemy (60% of launch speed)",3,Sprout,Leaf
+13,Critical,Weakness hits: a further +30%,3,Splice,Fire
+14,Volley,Each smash that hits: ATK ×1.22,4,Brick,Fire
+15,Victory Flame,Each defeat: ATK ×1.22,5,Ignis,Fire
+16,Final Blow,"When your last smash stops you, leftover speed boosts the ring (up to +60% at top speed)",3,Phoenix,Fire
+17,Wave Rider,Slows down 35% less while flying (glides farther),3,Rain,Water
+18,Breakthrough,First hit of the round only: damage +85%,4,Violet,Water
+19,Second Whirl,"On hitting an enemy, launches at the next (85% speed)",5,Maelstrom,Water
+20,Swell,"Body 35% larger (ATK ↑, damage taken ↓, bigger hitbox; heavier, so it flies slower)",5,Azure,Water
+21,Keen Fang,Each weakness hit: ATK ×1.35,5,Fang,Leaf
+22,Take the Hit,"When a nearby ally is attacked, the equipped ally takes 25% of it instead (while above 30% HP)",4,Ironwood,Leaf
+23,Full Stance,ATK +60% while HP is 80% or more,4,Deepwood,Leaf
+24,Wall Runner,Slides along walls (keeps 92% speed),4,Echo,Leaf
+25,One Miracle,"Once per battle, the special is free",5,Lumen,Light
+26,Stand-In,Takes a lethal blow for an ally (60% comes to you),4,Snowlight,Light
+27,Stored Light,Per 20% of gauge: ATK and distance +10%,5,Lantern,Light
+28,Inverted Song,The party gauge starts full — but it drains when this one connects,3,Siren,Light
+29,Linked Shrines,ATK +18% for each same-element ally on the field,4,Skyshrine,Light
+30,Bell of Return,Returns once as a soul at half HP,5,Dawnbreak,Light
+31,Phantom Sight,Dodges contact attacks 35% of the time,5,Dusk,Dark
+32,Turnabout,Flies in a zigzag (width 26),3,Mirage,Dark
+33,Wall Toll,Each wall hit deals 35% of ATK to the nearest enemy,3,Nimbus,Dark
+34,Blood Proxy,"In reserve: when an ally pays HP, the reserve pays half of it instead (up to 40% of the reserve’s max HP)",3,Keentip,Dark
+35,Dark Maw,Your smash ring stays behind as a dark maw (1 round). It pulls in enemies that enter and Curses them (50% of ATK),3,Ruin,Dark
+36,Wicked Oath,Each hit taken: ATK ×1.28,4,Malice,Dark
+37,Cascading Whirl,Each 1 MORE: ATK ×1.30,5,Nebula,Dark
+38,Wavering Shot,Flies in a zigzag (width 26),4,Blastfire,Fire
+39,Spark Scatter,Each shot also launches 2 clones,4,Crimson,Fire
+40,First Strike Claw,First hit only: damage +120%,4,Talon,Fire
+41,Whirlpool Helm,The flight path curves (220° per second),4,Moonwater,Water
+42,Spray Swarm,Each shot also launches 2 clones,4,Sea Dragon,Water
+43,Wave Helm,"On smash, veers toward your finger (55%)",4,Seawind,Water
+44,Petal Storm,Petals fly out of your smash ring in 6 directions (40% of the smash and Poison to enemies they hit),4,Evergreen,Leaf
+45,Springy Shoot,Each wall bounce: speed +28%,4,Treetop,Leaf
+46,Trunk Splitter,Pierces enemies (keeps 78% speed),4,Great Oak,Leaf
+47,Shining Orb,In reserve: enemies caught in an ally’s smash ring get Marked (they take 20% more damage for 2 turns),2,Onebeam,Light
+48,Light Echo,"0.4 seconds after a smash, a second ring of light goes off in the same spot (60% of the smash)",4,Parasol,Light
+49,Guiding Ray,Homes in on the nearest enemy (55%),4,Lightfang,Light
+50,Oath of Pitch,Below half HP: ATK +65%,5,Pitch,Dark
+51,Battle Fever,ATK +12% each time reinforcements arrive,4,Warlord,Dark
+52,Dark Acceleration,Accelerates for 0.8 seconds after launch,4,Moonflower,Dark
+53,Laser Dash,"Runs like light (speed ×3.30, no slowdown for 1500)",5,Alabaster,Light
+54,Soul Fang,Each time an ally defeats an enemy: HP +30,5,Obsidian,Dark
+55,Skyward Wings,Smashes +1,5,Skyward,Water
+56,Birdlime,Sticks to whatever it hits for 2 turns (pull and it comes too),4,Mistletoe,Leaf
+57,Tide Pool,"After your last smash stops you, tap within 0.5s to pay 10% gauge for one more ring right there (+30% power)",3,Jelly,Water
+58,Rushing Flame,"When it joins from reserve, it bursts where it lands (150% of ATK and Burn to nearby enemies)",3,Flame,Fire
+59,Ember Scatter,"Leaves an ember at each wall bounce (2 rounds, up to 5). Touching it: 40% of ATK and Burn. Nearby embers link with flame",3,Bonfire,Fire
+60,Uppercut,Pushes the enemy hit 60% harder,3,Fireball,Fire
+61,Playing with Fire,Each shot: ATK ×1.50 or ×0.75 (even odds),4,Gamble,Fire
+62,Charged Shot,Hold the pull to charge up to +45% power,4,Hellfire,Fire
+63,Spreading Fire,Hit foes turn weak to its element for 2 turns,4,Firefan,Fire
+64,Quick Draw,First shot of the round only: power +50%,3,Flint,Fire
+65,Heat Runaway,Each wall bounce: this shot’s power +18%,4,Pyre,Fire
+66,Fire Arrow,"In reserve: each round start, shoots a fire arrow at the enemy with the most HP (80% of the reserve’s ATK and Burn)",3,Amber,Fire
+67,Fire Orb,"On a 1 MORE, the next shot becomes a fire orb (each hit bursts for 50% of ATK to nearby enemies, up to 3 times)",3,Glow,Fire
+68,Spring Tide,"When it joins from reserve, a big wave pushes nearby enemies out and Wets them (60% of ATK to those hitting a wall)",4,Hightide,Water
+69,Water Mirror,"When hit, returns 40% of it",3,Whitecap,Water
+70,Stone Skip,"Enemies hit become Wet. Hitting a Wet enemy skips over it like a stone on water (keeps 90% speed, up to 3 per shot)",3,Mizuhoro,Water
+71,Call the Whirl,Pulls nearby enemies 70 toward where you stop,4,Bluestorm,Water
+72,Droplet Share,"On a defeat, 60% of the overkill heals the party",4,Depths,Water
+73,Water Cloak,"Each of your turns, the first hit you take is -50%",3,Tidesong,Water
+74,Rewind,Hit nothing: shoot again (1 times),4,Dew,Water
+75,Ice Wall,Raises a wall where you stop for 2 turns,4,Glacier,Water
+76,Bubble Shield,A bubble blocks one hit. Defeat an enemy to get it back.,3,Bubble,Water
+77,Deep Pressure,"The more enemies beside your target, the harder it hits (+20% each)",4,Luribi,Water
+78,Take Root,Each of your turns: ATK ×1.08,3,Leaflet,Leaf
+79,Sapping Venom,Poisons enemies it hits (20% of ATK per turn). Allies take 15% less damage from Poisoned enemies,4,Holly,Leaf
+80,Lookout,"In reserve: before an enemy shoots, its target gets a leaf mark and takes 15% less damage from that shot",3,Seedling,Leaf
+81,Rooted,"Takes root when it stops (until its next shot). It can't be pushed, and nearby allies take 20% less damage",4,Oakleaf,Leaf
+82,Vine Fence,"Stretches a vine from where it stops to the nearest outer wall (2 rounds). Touching it: 30% of ATK, Poison, and half speed",3,Fern,Leaf
+83,Budding,"Leaves a double where it fell (60% of a normal hit, 3 turns)",4,Clover,Leaf
+84,Burst Pod,"Leaves 2 pods each time it stops (2 rounds, up to 4). When another ally hits one, it pops: 50% of ATK and 2 Poison nearby",3,Harvest,Leaf
+85,Hard Nut,"Places 2 hard nuts each time it stops (2 rounds, up to 4). When one breaks, the 2 allies with the lowest HP recover 10% HP and gain a 10% barrier",3,Magnolia,Leaf
+86,Charging Horn,Up to +60% power from impact speed,4,Beetle,Leaf
+87,Poison Bog,Leaves a poison pool for 2 turns (allies are safe),4,Ivy,Leaf
+88,Path of Light,Hit without touching a wall: power +35%,3,Throughline,Light
+89,Reflection,Each wall bounce shoots a beam of light the way it bounced (35% of ATK and Mark to enemies hit; 3 per shot),4,Mirror,Light
+90,Mark of Judgment,Marks the first enemy hit: anyone hits it for +30% (2 turns),4,Radiance,Light
+91,Cheer On,Each touch of an ally (bodies too) while flying deals 20% of ATK to all enemies and adds +5% gauge (up to 5 per shot),3,Dawn,Light
+92,Twinkle,Accelerates for 1.1 seconds after launch,4,Flicker,Light
+93,Sanctuary,Nearby allies take 25% less damage,4,Torchlight,Light
+94,Shatter Rain,"When a breakable breaks or this unit defeats a foe, deals 15% of ATK to all foes (up to 3 per turn)",3,Springlight,Light
+95,Guiding Line,"While pulling, shows the flight path. Hitting the foe at the end of the line: power +30%",4,Everlight,Light
+96,White Armor,Starts the battle with a 40 barrier (lost before HP),4,Glitter,Light
+97,Daybreak Star,"When it joins from reserve, Marks every enemy (they take 25% more damage for 3 turns)",4,Whitesun,Light
+98,Crystal,"Places 2 crystals each time it stops (2 rounds, up to 4). When one breaks, light flies to the 3 nearest enemies: 40% of ATK and Mark",4,Halo,Light
+99,Blood Pact,Each shot pays 8% HP for ATK +16%,4,Bruise,Dark
+100,Curse Pot,"Places 2 pots each time it stops (2 rounds, up to 4). An enemy who breaks one is Cursed (40% of ATK); an ally who breaks one adds +20% gauge",3,Umbra,Dark
+101,Blood Dash,"Pays 5% HP when it shoots for +40% speed (below 30% HP, it shoots normally without paying)",3,Hollow,Dark
+102,Devil’s Bargain,"Specials cost 40% less gauge, but firing pays 15% HP",4,Abacus,Dark
+103,Blood Thread,"Pays 3% HP per shot. Each time an ally pays HP, a black thread ties the 2 nearest enemies for 60% of ATK (2 per shot)",3,Shinobi,Dark
+104,Shadow Envoy,On a defeat: smashes +1,3,Veil,Dark
+105,Veil of Night,"In reserve: each round start, Curses every enemy (25% of the reserve’s ATK, stacks)",4,Kiln,Dark
+106,Curse Hop,"Curses enemies it hits (40% of ATK, stacks). When a Cursed enemy falls, its Curse doubles and leaps to the nearest enemy",4,Rift,Dark
+107,Shadow Pool,"Leaves a shadow where it stops (2 rounds). Enemies that enter are Cursed (60% of ATK, stacks)",3,Snake Eye,Dark
+108,Corpse Urn,Bodies of enemies this unit defeats become breakable (until the round ends). When broken: 50% of ATK to nearby enemies,4,Nocturne,Dark
+109,First Flame,Returns once as a soul at half HP,4,Kagutsuchi,Fire
+110,Thunder Blade,Hit without touching a wall: power +35%,4,Takemika,Fire
+111,Way of Tides,Pierces enemies (keeps 82% speed),4,Watatsumi,Water
+112,Whirl,"Leaves a whirlpool where it stops (2 rounds). Enemies entering take 40% of ATK, get Wet, and are drawn to its center",4,Seoritsu,Water
+113,Root Realm,Always: pull +20%,4,Kukunochi,Leaf
+114,Voice of Clay,"Body 35% larger (ATK ↑, damage taken ↓, bigger hitbox; heavier, so it flies slower)",4,Haniyasu,Leaf
+115,Pillar of Light,A pillar of light rises where it defeats an enemy (1 round). Enemies touching it take 40% of ATK and Mark,4,Amateru,Light
+116,Road Opener,"Hops the wall to the far side (costs one smash, 1 times)",4,Saruta,Light
+117,Rings of Woe,Smashing also sends black rings out from under every other ally (50% of the smash),4,Magatsu,Dark
+118,Eye of the Moon,First hit of the round only: damage +85%,4,Tsukuyomi,Dark
+119,Banked Coals,Unused smashes carry over to the next shot (up to +2),4,Mahitotsu,Fire
+120,Tidy Up,"ATK +12% for each foe defeated this turn and each nearby body or breakable it clears away (2 rounds, up to +60%)",3,Reach,Fire
+121,Burnout,Use up your smashes: ATK +40% for the rest of the shot,4,Ashes,Fire
+122,Volley Fire,"Once per battle, hold to Burn every enemy (40% of ATK for 2 turns)",3,Burst,Fire
+123,Echo Wave,Hit the same enemy twice in one shot and ×1.0 of the first hit’s damage lands again,2,Ripple,Water
+124,Budding Ring,Allies inside your smash ring get a barrier (12% of your max HP) until the next enemy turn ends,3,Elder,Leaf
+125,Spilled Seeds,Smashing doesn’t stop you — it drops a seed that bursts at the start of the next turn (50% of ATK),4,Sorrel,Leaf
+126,Relay Sash,"Through the round, your combo carries over between shots",5,Uzume,Light
+127,Pointing Ray,"On top of the smash ring, a beam of light shoots the way you were flying (3× the ring’s length, same power)",4,Sunbeam,Light
+128,Split Second,Smash right after hitting an enemy: power ×2.0,2,Eureka,Light
+129,Shadow Self,A shadow also launches from where you last stopped (60% of a normal hit). Each shadow hit costs HP,5,Kuraokami,Dark
+130,Blood Hail,Out of smashes? Pay HP to keep smashing (6% HP each),3,Bloodshot,Dark
+131,Scorched Trail,On stopping: 60% of ATK to enemies along your path,4,Brushfire,Fire
+132,Fire Cloak,"In flight: 30% of ATK to enemies you pass close by, even without touching",3,Scarlet,Fire
+133,Bounce Spark,Each wall bounce: smashes +1 (up to 2 per shot),4,Ricochet,Fire
+134,Rekindle,"Once, as it slows to a stop, it bursts and speeds off the way you shot (60% speed)",5,Okitsuhiko,Fire
+135,Upstream,Tap instead of smashing to retrace your path back to where you shot (hitting enemies on the way again),5,Hayaakitsu,Water
+136,Breaker Wave,"Each wall bounce sends a wave into the board (35% of ATK, Wet, and a small push to enemies it touches; 3 per shot)",3,Spray,Water
+137,Shoreline,Stop against the outer wall: damage taken -40% next enemy turn,4,Strand,Water
+138,Leaf Veil,"On stopping, the equipped ally and nearby allies get a barrier (20% of its max HP) until the next enemy turn ends",3,Creeper,Leaf
+139,Reaching Light,"The farther from where you shot, the harder you hit (up to +60%)",4,Farsight,Light
+140,Shadow Swap,"Once per battle, hold to swap places with the nearest enemy and Curse it (100% of ATK)",3,Slither,Dark
+141,Fireworks,Defeated enemies burst in four directions (50% of ATK to enemies caught),4,Starburst,Fire
+142,Roar,"Each 1 MORE: 30% of ATK to nearby enemies, +30% more for each one in a row (up to 5; resets on a shot with no KO)",4,Drumfire,Fire
+143,Sheer Heat,No damage penalty against elements you’re weak to,3,Scorch,Fire
+144,Finishing Flame,Enemies at 30% HP or less take +50% damage,4,Temper,Fire
+145,Leftover Flame,"On a defeat, the overkill damage passes to the nearest enemy",5,Mikahayahi,Fire
+146,Ferry,Can hand a 1 MORE it earns to an ally who has already moved,4,Ferryman,Water
+147,Fruition,Leaves a seed where you shoot. It fruits next round; an ally who stops on the fruit shoots again,5,Mitoshi,Leaf
+148,Prop Up,"In reserve: an ally taking a lethal blow stays at 1 HP, and the reserve takes the excess (up to 35% of its max HP)",3,Trellis,Leaf
+149,Light Encore,"Once per battle, hold: this ally can shoot once more after this turn (that shot at 60% power)",4,Mentor,Light
+150,Returning Light,"Each time another ally defeats an enemy, light runs from there to this one: 50% of ATK to enemies in between",4,Backlight,Light
+151,Insatiable,"Defeat again on a 1 MORE shot to pay HP for another 1 MORE (15% HP at first, doubling each time)",4,Greed,Dark
+152,Dark Dye,"On shooting, pays 8% HP to take the element the nearest enemy is weak to, for this shot only",4,Inkwash,Dark
+153,Trigger,"Hit an enemy with Burn, Poison or Curse to deal all the damage still to come at once",5,Homusubi,Fire
+154,Flame Carom,"Enemies hit start to Burn. When a Burning enemy bumps another, both take 50% of ATK (and the other catches fire)",4,Firebox,Fire
+155,Sendoff Fire,In reserve: each ally defeat sends a fireball from that spot to the nearest enemy (60% of the reserve’s ATK and Burn),3,Wildfire,Fire
+156,Soaking Shot,"Enemies hit become Wet. Wet enemies slide far when knocked, dealing 50% of ATK to whatever they hit",5,Toyotama,Water
+157,Drenched,Enemies inside your smash ring become Wet,4,Squall,Water
+158,Water’s Blessing,"Once per battle, hold to heal every ally 20% of max HP and clear their status effects",3,Clearwater,Water
+159,Overgrowth,"While this one is on the field, enemy Poison wears off each round instead of each turn",5,Kayanohime,Leaf
+160,Full Bloom,"+2 Poison per hit (15% of ATK each). At 4+, it blooms: the rest hits at once, and nearby enemies get 2 Poison",4,Horsetail,Leaf
+161,Clear Sight,"On stopping, Marks every enemy in clear line of sight",4,Ishikori,Light
+162,Foresight,Lines show who the enemies moving next will target. A targeted ally hits for +30% power,4,Seer,Light
+163,Echoing Mark,30% of the damage a Marked enemy takes also hits the enemies around it,2,Chime,Light
+164,Prism,Marks enemies it hits. Hitting a Marked enemy splits the light toward the 3 nearest enemies (35% of ATK and Mark),4,Votive,Light
+165,Rope of Light,"On stopping, ties a rope of light to the nearest ally (1 round; it moves with them). Touching it: 50% of ATK and Mark",3,Twinstar,Light
+166,Column Split,"Instead of a ring, your smash splits your column top to bottom with a dark band (band width 60% of the ring)",4,Effigy,Dark
+167,Blood Curse,"Whenever an ally pays HP, that amount is stacked as Curse on the nearest enemy",4,Rancor,Dark
+168,Layered Hex,Hitting a Cursed enemy drops that hit’s damage and adds 2× of it to the Curse (once per shot),4,Midnight,Dark
+169,Flamethrower,"After stopping, breathes fire the way it was heading (80% of ATK to enemies straight ahead)",4,Blowtorch,Fire
+170,Water Jar,"50% of damage to allies comes out of the party gauge, not HP (keeps one special’s worth, up to 20% per hit)",4,Mizuhanome,Water
+171,Ripples,"In reserve: each time an ally stops, ripples spread around it (25% of the reserve’s ATK and Wet to enemies inside)",3,Brimful,Water
+172,Great Wave,"After a smash, a big wave spreads beyond the ring (50% of the smash to enemies it catches, pushing them outward)",4,Torrent,Water
+173,Pooled Water,"Stopped short by your last smash, a sticky wall or a special? The leftover speed goes into your next shot",3,Backwater,Water
+174,Flowing Water,Keeps flying after a special instead of stopping,3,Brook,Water
+175,Mistletoe Seed,"Plants mistletoe on enemies hit. It grows each time they move; when they fall, gauge +10% per stage",4,Kijimuna,Leaf
+176,Popping Garden,"Your smash makes allied placements in the ring (fruit, seeds, vines) burst for 40% of ATK to nearby enemies. If none, it plants a seed",3,Perennial,Leaf
+177,Lush Growth,Each special: ATK ×1.08 (stacks for the battle),4,Thicket,Leaf
+178,Spyglass,"In reserve: each round start, Marks the enemy with the most HP (it takes 30% more damage for 3 turns)",3,Skylight,Light
+179,Offering,"When another ally fires a special, this one pays HP to give it +40% power",3,Altar,Dark
+180,Drink Up,"Smashing resets this ally’s hit count to 0, adding +10% ring power per hit (up to 8 hits)",4,Thirst,Dark
+181,Flame Stance,"Once per battle, hold to give this ally’s next shot +50% power; enemies it hits Burn",3,Hoderi,Fire
+182,Wrecker,"Enemies it hits have 0 Defense for that turn. Breaks breakables and temporary walls in one hit, +10% gauge for each break",3,Fireside,Fire
+183,Rearguard,Last to move in the round: power +35%,4,Finale,Fire
+184,Tide Swap,"Once per battle, hold to swap places with the farthest ally; both recover 10% of max HP",2,Ebb & Flow,Water
+185,Flowing Ring,"The farther you have flown this shot, the wider your smash ring (up to 1.4× at full length)",3,Ribbon,Water
+186,Tree Planting,"Plants a tree where you stop (up to 2; a third replants the younger tree). From its round 3 on, each round start: 40% of ATK nearby",4,Seedbed,Leaf
+187,Milestone,"Each shot adds a notch. Every 3 shots, that shot’s power ×2.0 (1 MORE shots count)",3,Bamboo,Leaf
+188,Scarecrow,"Leaves a scarecrow where it stops (2 rounds, up to 2). Enemies target it like an ally. It breaks after 60% of the equipped ally’s max HP",4,Leafmold,Leaf
+189,Break of Dawn,First to shoot in the round: other allies get smashes +1 this round per enemy hit,5,Naganaki,Light
+190,Shared Vow,"While its vow holds, other allies get 25% of its vow bonus too (unbreakable vows aren’t shared)",4,Pledge,Light
+191,Ring of Light,"If every ally hits the same enemy in a round, a ring of light falls on it (30% of the damage dealt to it that round)",4,Sun Disc,Light
+192,Twofold Vow,"Can take two vows (bonuses multiply). But if one breaks, both are lost",5,Nue,Dark
+193,Blood Contract,Failed calls are paid for with HP instead of gauge,4,Proxy,Dark
+194,Desperation,"For the shot where the vow breaks, the vow’s extra (the 0.6 of ×1.6) is ×2.0 (then it’s gone)",4,Desperado,Dark
+195,Blood Covenant,"Once per battle, hold to pay 30% of this ally’s HP for +40% gauge (not below 30% HP)",3,Bloodseal,Dark
+196,Pack Roast,"When 2+ enemies are in your smash ring, the ring gains +20% power per extra enemy (up to 3)",4,Signal,Fire
+197,Gem Crusher,"Blows up gems instead of picking them up (70% of ATK around them, no gauge)",3,Firesteel,Fire
+198,Returning Tide,Allies pushed in the enemy turn go back to their spots when your turn starts (not out of pits or cracks),4,Undertow,Water
+199,Drift,"Once after stopping, pull this one to slide it to a new resting spot (up to 2 medal widths)",3,Sway,Water
+200,Hurl,"Throws shards of foes it defeats, and fallen bodies or breakables it touches, at the nearest foe (80% of ATK, 2 per shot)",4,Buoy,Water
+201,Root Division,"Leaves a sapling where you stop (up to 2). Next round, select another ally and tap a sapling to shoot from there (one per sapling)",4,Isotakeru,Leaf
+202,Leafy Shade,"In reserve: each round start, the ally lowest on HP gets a barrier (20% of the reserve’s max HP)",4,Sakuyahime,Leaf
+203,Hedgerow,Each stop raises a hedge back to where you last stopped (1 round). Enemies crossing it get worn down,4,Boxwood,Leaf
+204,Body Block,Enemies that bump into the equipped ally lose 45% of their speed (making allies behind it harder to reach),3,Sheaf,Leaf
+205,Detour,Each gem picked up restores the shot’s speed to 50% of launch speed,4,Wayside,Leaf
+206,Wound Fruit,"A fruit drops where an ally is attacked (2 rounds, up to 5). An ally flying into it recovers 15% of their max HP",3,Bounty,Leaf
+207,Mark of Light,"Once per battle, hold to Mark every enemy (they take 25% more damage for 3 turns)",3,Mikaboshi,Light
+208,Sharing,Gives the top item of this one's equipment to every ally on the field (skips Sharing itself; lost if this one falls),4,Omoikane,Light
+209,Read,Damage +40% to the enemies moving next enemy turn,4,Appraiser,Light
+210,Guide Star,Leaves a star where you stop. Allies passing near it turn toward the nearest enemy,2,Polaris,Light
+211,First Light,Power +50% on your first hit against each enemy in the battle,4,First Sun,Light
+212,Hijack,"Equipped abilities work at a further ×1.5. In exchange, max HP drops by a fifth",4,Haunt,Dark
+213,Solitude,If no ally is nearby when it stops: next shot power +40%,4,Stray,Dark
+214,Blast Rush,Hitting enemies doesn't slow it down (3 per shot). Each hit bursts for 30% of ATK to nearby enemies,3,Wrath,Fire
+215,Warmth,Each smash: nearby allies heal 10,4,Cozy,Fire
+216,Reclaim,Hitting an enemy gives each ally back 50% of the damage it has dealt them this battle,5,Shiotsuchi,Water
+217,Return Fire,Hit during the enemy turn? This one gets an extra shot next round (once per round),4,Isora,Water
+218,Backwash,"When hit, it’s knocked far and deals 50% of ATK to enemies it crashes into",3,Billow,Water
+219,Parry,No single hit takes more than 30% of max HP,4,Flow,Water
+220,Beckoning Tide,"In reserve: each round start, pulls the enemy farthest from your allies 120 toward the center (it gets Wet)",3,Jetty,Water
+221,Siphon Ring,Your smash heals you and allies in the ring by 15% of the damage it dealt,3,Sapling,Leaf
+222,Leaf Cover,"Once per battle, hold to give every ally a barrier (25% of this ally’s max HP) until the next enemy turn ends",3,Turf,Leaf
+223,Forest Ward,For each object allies placed on the board: the party takes -5% damage (max -25%),3,Holy Tree,Leaf
+224,Watching Over,"When a nearby ally is hit, this one fires a light arrow at the attacker (40% of ATK)",4,Lighthouse,Light
+225,Sunshade,"On stopping, shades the nearest ally with light (next hit taken -50%)",4,Awning,Light
+226,Pay Later,"Damage taken is held back, then lands all at once at the end of the next round (×1.2)",3,Moonless,Dark
+227,Lingering Body,"When defeated, the body stays until the end of the next round. An enemy that hits it takes 40% of ATK (once per turn)",3,Afterglow,Dark
+228,Pass the Flame,Touch an ally in flight: their next shot gets power +30%,5,Hosuseri,Fire
+229,Kindling,"In reserve, builds power with each ally defeat (ATK up to +50% when it joins)",4,Smolder,Fire
+230,Powder Keg,"Places 2 kegs each time it stops (2 rounds, up to 4). When broken one bursts: 60% of ATK and Burn to nearby enemies",3,Homefire,Fire
+231,Passing Current,Touch an ally in flight to hand over all your speed and stop. They fly on and strike (without using their move),4,Mikumari,Water
+232,Turn of the Tide,"From reserve, swaps in for an ally taking a lethal blow. The one swapped out becomes the new reserve",4,Tideturn,Water
+233,Graft,Touch an ally in flight to use their ability too for this shot (one ally’s),4,Kamimusubi,Leaf
+234,Regrowth,"A sapling grows where an ally falls. Next round start, they rise with 30% HP (at once if an ally touches it; 2 per battle)",5,Ukemochi,Leaf
+235,Root Web,"On stopping, roots itself to the nearest ally (1 round). Both take 10% less damage and split the rest evenly",3,Rootlet,Leaf
+236,Name the Target,"Select this one, then tap an enemy to name it: ×2.0 on the named enemy, -30% on the others",5,Yatagarasu,Light
+237,Pursuing Light,"When an ally smashes, light arrows hit the enemies in that ring (50% of your ATK and Mark)",3,Aurora,Light
+238,Sacrifice,Touch an ally in flight to drain their HP: this shot’s power +40% (once per shot),4,Tribute,Dark
+239,Lingering Dark,"At the end of a turn you smashed, Curses every enemy (20% of the damage your smash dealt)",3,Changeling,Dark
+240,Decoy,"While above half HP, this one draws the enemies’ attacks",4,Lookalike,Dark
+241,Door of Grudges,"In reserve, it stores the damage allies take. When it joins, 50% of it Curses nearby enemies (up to 5× ATK)",4,Avenger,Dark
+242,Trodden Path,Your path turns to grass for 1 round. Allies flying along it don’t slow down,4,Trail,Leaf
+243,Flying Ring,Your smash ring opens under the nearest enemy instead of on you (ring size 60%),4,Tidings,Light
+244,Mirror Spring,Loses less speed bouncing off walls (50% less loss),3,Glimmer,Light
+245,Bright Side,Hit an enemy on its glowing side (changes each round): power ×1.5,4,Eagle Eye,Light
+246,Borrowed Time,"Any ally may fire a special without enough gauge (debt down to -60%, once per round). In debt, this one pays 5% HP per shot",4,Yomotsu,Dark
+247,Grudge,Stores damage allies take as a grudge. This one’s next hit adds it all on (max 4× ATK),5,Aramitama,Dark
+248,Soul Stays,"Even when defeated, the body stays and can shoot 2 more turns (specials need no gauge meanwhile). It vanishes after that",4,Izanami,Dark
+249,Hasten,Each hit moves that enemy 1 closer on its turn counter (not below 1). That hit gets power +60%,3,Alarm,Dark
+250,Delayed Wound,This shot’s damage doesn’t land now — it lands ×1.6 at the start of the next round,4,Clawmark,Dark
+251,Rising Fire,"Each shot: ATK +10% (stacks this battle, up to +50%)",5,Ruby,Fire
+252,Stand-In Trunk,"Once per battle, hold: until this round ends, enemies target this ally, and it takes 30% less damage",3,Jade,Leaf
+253,Cloud Umbrella,"Once per battle, at the start of your turn, revive every fallen ally at 40% HP",5,Lapis,Water
+254,Summit,Abilities equipped on this ally work at a further ×1.2,5,Canopy,Light
+255,Hunter's Arrow,"Each time an ally's shot stops, an arrow flies at the farthest visible enemy (45% ATK)",5,Hoori,Leaf
+256,Iron Shove,"While this ally moves, enemies weigh half (even giants and bosses fly). Enemies knocked into a pit or poison swamp take 100% ATK",5,Kanayago,Fire
+257,Clean Cut,"Hitting an enemy at 25% HP or less defeats it outright (bosses, kings, Big Bosses: double damage)",5,Ohabari,Water
+258,Thunder Chain,"Each hit sends lightning to the nearest other enemy (30% ATK, up to 3 per shot, ×2 vs Wet)",5,Narukami,Light
+259,Pack Fang,Damage +45% to enemies another ally hit this round,5,Makami,Dark

@@ -1,0 +1,5 @@
+﻿Chip,Call,If fulfilled,If missed
+Defeat,Defeat one with this shot,"ATK ×1.4 (rest of battle, stacks)",Gauge to 0
+3 walls,Hit walls 3 times,Next special is free,Gauge -40%
+Smash,Land one smash,HP +30%,HP -30%
+5 hits,Chain 5 hits or more,Gauge +60%,Gauge -40%

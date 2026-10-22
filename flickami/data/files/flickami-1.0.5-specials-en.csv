@@ -1,0 +1,260 @@
+﻿No.,Special,Gauge,Special effect,Owner,Element
+1,Big Bang,60,"Four hits on every enemy in range. Each use this stage heats the forge — from the 4th, ATK ×2.4!",Blaze,Fire
+2,Flint Spark,60,"Next shot, sparks fly where you first hit. The more wall bounces before it, the harder (up to ATK ×2.2)!",Spark,Fire
+3,Candle Ring,60,A ring of light hits enemies. Fewer allies inside: stronger. More allies inside: bigger heal!,Ember,Fire
+4,Bonfire Rally,60,Lights a bonfire: ATK up for allies for 3 turns. Allies near the fire get +30%!,Beacon,Fire
+5,Whirlpool Dash,40,Charges in at 1.9× speed!,Cyclone,Water
+6,Umbrella Spin,40,Opens an umbrella and flies faster. Each wall bounce flings a bigger droplet (up to ATK ×1.2)!,Droplet,Water
+7,Water Harp,60,The water harp rings out: +10% gauge for each ally nearby!,Stillwater,Water
+8,Wet Sand Slide,60,Slides off at ×1.6 momentum. Your path turns to wet sand (2 turns); enemies on it get Wet!,Shore,Water
+9,Verdant Prayer,60,"Heals all allies. The more allies at full HP, the harder it hits nearby enemies (up to ATK ×1.5)!",Woody,Leaf
+10,Ground Breaker,40,"Breaks nearby walls, sticky walls and poison!",Ironrock,Leaf
+11,Morning Dew,60,"Scatters morning dew: at the start of next round, all allies heal — more the closer they gather (up to 28)!",Daybreak,Leaf
+12,Cradle Song,60,A lullaby heals nearby allies — more for every fallen ally!,Sprout,Leaf
+13,Shock Clip,60,"Clips the nearest enemy with a live wire (3 turns). Each hit on it shocks those nearby, harder each time!",Splice,Fire
+14,Brick Stack,80,"Stacks brick walls left and right (3 turns). On your next shot, hits after a wall bounce deal ×1.3!",Brick,Fire
+15,Mincing Cuts,100,"Slices the nearest enemy 6 times. If it falls, the rest go to the next one!",Ignis,Fire
+16,Guardian Veil,60,Wraps the party in a veil: damage taken is halved until the enemy turn ends!,Phoenix,Fire
+17,Hand Over,20,Pay 25% of your HP for +60% party gauge,Rain,Water
+18,Shuttle Run,60,"The shuttle runs up a column, leaving thread (3 turns). Hits enemies on the line and those crossing it!",Violet,Water
+19,Gravity Well,60,Pulls every enemy in. Then hits harder the more enemies gather around you!,Maelstrom,Water
+20,Puff Up,60,Puffs up to 1.5× size (3 turns) and takes half damage. A big body to shield allies!,Azure,Water
+21,Seed Shell,80,Caps every enemy weak to you in a seed shell; it bursts when they move. Stronger the fewer!,Fang,Leaf
+22,Whirl Field,80,Leaves a whirl for 3 turns — enemies passing through are drawn to its centre.,Ironwood,Leaf
+23,Mill Grind,80,Grinds the enemies around you. Gets stronger the more enemies you’ve ground this stage!,Deepwood,Leaf
+24,Gale,40,"Blasts nearby enemies outward. The fewer there are, the harder (ATK ×1.6 on one)!",Echo,Leaf
+25,Light’s Judgment,80,"Strikes every enemy on the board. The more elements among them, the harder (ATK ×1.5 with 5)!",Lumen,Light
+26,Feather Shield,60,"Feather shields for all allies: each blocks one body blow and flies back, harder vs faster foes!",Snowlight,Light
+27,Lantern Float,60,"Floats 3 lanterns down left, center and right, hitting those columns. Stronger with more gauge!",Lantern,Light
+28,Time Rift,100,Time stops! Every enemy on screen is hit 8 times (tap to speed it up),Siren,Light
+29,Thread Line,60,Strings a thread at your height. For 3 turns crossing it hurts.,Skyshrine,Light
+30,Trap Dust,80,Plants a bomb on one enemy. It blows the moment it moves!,Dawnbreak,Light
+31,Magic Carpet,60,"Floats on a carpet: hits nearby enemies, harder the closer (ATK ×1.4), and dodges until the enemy turn!",Dusk,Dark
+32,Shadow Clone,60,Leaves a double behind. For 3 turns it grinds down whatever touches it.,Mirage,Dark
+33,Cross Slash,60,Cuts down everything in a cross. Double damage on enemies against a wall!,Nimbus,Dark
+34,First Flash,80,"One flash at the nearest enemy ahead. A KO gives gauge +40%; if it survives, you take +30% damage!",Keentip,Dark
+35,Eraser Crumbs,60,Erases traps ahead. Each one erased flings crumbs at the enemies!,Ruin,Dark
+36,Millstone,80,"Becomes a millstone until your next shot ends: heavier, grinding whatever it touches. Stronger with every hit!",Malice,Dark
+37,Nebula Cloak,80,"Becomes a nebula until your next shot ends: passing enemies curve toward you, and your hits deal ×1.3!",Nebula,Dark
+38,Bellows Push,40,"Bellows stretch out and shove enemies ahead. The closer the wall behind them, the harder (up to ATK ×1.0)!",Blastfire,Fire
+39,Running Fire,60,"Fire races down a column (2 turns), Burning enemies that cross. Spreads hotter the more there are!",Crimson,Fire
+40,Triple Claw,60,Three horizontal claw strikes that Burn. Stronger on enemies nobody has hit this round!,Talon,Fire
+41,Hard Rudder,60,A curving beam hits and Wets. Hitting a Wet enemy makes it bounce on — stronger each bounce!,Moonwater,Water
+42,Heavy Anchor,80,"Drops anchor: for 3 turns all allies are heavy — hard to push, and they shove what they hit!",Sea Dragon,Water
+43,Tailwind,40,Catches the wind: Wets enemies in the row and blows them sideways — harder the farther they are!,Seawind,Water
+44,Ancient Seeds,80,"Plants seeds on every enemy (3 turns). When one falls, its seed bursts on those around it!",Evergreen,Leaf
+45,Slingshot,60,"Slings at enemies in the cone behind you and knocks them away. The closer, the harder!",Treetop,Leaf
+46,Crowbar,80,"Pries the nearest enemy's defense to 0 (3 turns) and shoves it. Against a wall, the lever bites: ATK ×1.4!",Great Oak,Leaf
+47,Single Ray,80,"Light pierces a vertical line, dropping defense to 0 (3 turns). Last to act this round: ATK ×1.6!",Onebeam,Light
+48,Folding Screen,60,Raises 3 small screens of light ahead (3 turns). They're walls — enemies and allies bounce off!,Parasol,Light
+49,Swallow Return,60,"Cuts back in a Z. The faster you were going, the stronger!",Lightfang,Light
+50,Folding Blade,80,"Pins the nearest enemy with a Mark and strikes. The lower your HP, the harder (up to ×3)!",Pitch,Dark
+51,Chain,40,Chains nearby enemies to a stake. For 3 turns they are pulled back.,Warlord,Dark
+52,Fan Sweep,60,Sweeps a wide fan ahead. Grows stronger as the rounds go by in this stage!,Moonflower,Dark
+53,Plumb Beam,80,A beam that bends off walls and Marks what it hits. It grows stronger with each bend!,Alabaster,Light
+54,Whetstone,80,"Sharpens the blade: on your next shot, ATK +40% and heals on every KO!",Obsidian,Dark
+55,Diamond Blast,40,"Diamond-shaped blast. The closer to the center, the harder (ATK ×2.0 at the center)!",Skyward,Water
+56,Birdlime,60,Glues the 2 nearest enemies together (3 turns) and delays them. Knock one and both move!,Mistletoe,Leaf
+57,Spring Rig,60,Sets two spring pads either side — stop on one and your next shot flies far.,Jelly,Water
+58,Branding Iron,60,Brands the nearest enemy: a long Burn and a Mark. ATK ×1.2 on one already Marked!,Flame,Fire
+59,Domino Line,80,"Sets up dominoes ahead (3 turns). When an enemy bumps them, the whole row falls on the line!",Bonfire,Fire
+60,Clay Launch,60,"Launches the enemy with the most HP; it bursts where it lands. The heavier it is, the harder!",Fireball,Fire
+61,Mantis Scythes,60,Two scythes in an X. Damage is down to luck (×0.4 to ×2)!,Gamble,Fire
+62,Heat Press,60,Pushes the cone ahead hard with a heated board. Stronger the harder you pulled!,Hellfire,Fire
+63,Bellows Fan,60,Makes enemies in the cone weak to you and Burns them. Hotter the later you act this round (up to ATK ×0.4)!,Firefan,Fire
+64,"Ready, Go!",60,"Ready, go! One shot at the first enemy in your column. ×2 if you act first this round!",Flint,Fire
+65,Running Fuse,60,"When you stop, fire races along your fuse-like path. The faster you went, the stronger!",Pyre,Fire
+66,Shell Counter,60,"Blocks the next body blow and Burns the attacker. The longer it waits, the hotter (up to ATK ×0.75)!",Amber,Fire
+67,Story Time,60,Reads aloud to nearby allies: heals them and fills the gauge by how much was healed!,Glow,Fire
+68,Tide Intake,60,Draws enemies below up to your level and heals all allies for each one drawn (up to 18)!,Hightide,Water
+69,Frozen Floor,60,"Freezes the floor around you for 3 turns: you slide far, and enemies on the ice are delayed!",Whitecap,Water
+70,Slippery Rebound,40,"Next enemy turn, anyone who rams you gets Wet and slides right off!",Mizuhoro,Water
+71,Whale Shark Gulp,80,A whale shark's huge mouth sucks in the cone ahead. Heals for each one!,Bluestorm,Water
+72,Lifeboat,80,Gives half your HP to bring a fallen ally back. Both take half damage until the enemy turn ends!,Depths,Water
+73,Surf Drum,40,A surf drum Wets enemies in the ring and pushes them out — farther the fewer there are!,Tidesong,Water
+74,Rewind Tape,60,Returns every ally to where they began this round. Gauge for each one moved (up to +35%)!,Dew,Water
+75,Iceberg Footing,80,Ice under each ally (3 turns). Allies on the ice take half damage!,Glacier,Water
+76,Bubble Wrap,60,Wraps nearby enemies in bubbles (3 turns) and delays them; lighter and easier to knock away!,Bubble,Water
+77,Carom,80,"Hits the nearest enemy, then bounces on: up to 4 enemies (3 bounces), weakening each hop.",Luribi,Water
+78,Root Web,60,Links allies with roots. Farther apart: harder hits on enemies. Closer together: bigger heal!,Leaflet,Leaf
+79,Bear Trap,80,Sets a trap right here (3 turns). The enemy that steps on it takes big damage and Poison!,Holly,Leaf
+80,Seed Roll,40,Rolls 3 seeds ahead (3 turns). An ally who touches one pops it and heals!,Seedling,Leaf
+81,Weigh Down,60,"For 3 turns, grow heavy and shove your way through. Heavier with each use (×3 to ×4)!",Oakleaf,Leaf
+82,Harp Song,60,Plays the harp: all allies heal each turn for 3 turns — more with more allies nearby!,Fern,Leaf
+83,Root Stitch,60,Stitches roots along your path (3 turns). Enemies crossing them get tangled and hurt!,Clover,Leaf
+84,Hold Fast,60,Delays every enemy's action count by 1 (they resist it for a while after)!,Harvest,Leaf
+85,Leaf Sleeve,60,"Wraps your weakest ally in a leaf sleeve: the weaker they are, the more body blows it stops (up to 3)!",Magnolia,Leaf
+86,Horn Scoop,60,Scoops the enemies ahead and hurls them at another enemy nearby. Both take damage on impact!,Beetle,Leaf
+87,Creeping Ivy,60,Ivy creeps up a column (3 turns). Enemies crossing it get tangled and Poisoned!,Ivy,Leaf
+88,Ink Line,60,"Snaps an ink line to the farthest enemy and hits all on it. The longer the line, the harder (up to ATK ×1.6)!",Throughline,Light
+89,Ribbon Line,60,Strings a ribbon ahead (3 turns). Enemies crossing it take damage; allies touching it get +5% gauge!,Mirror,Light
+90,Asterisk,60,Six beams in an asterisk. Hits Marked enemies harder and Marks the rest!,Radiance,Light
+91,Pouring Light,60,"Pours light on your weakest ally. The weaker they are, the bigger the heal (up to 80% HP)!",Dawn,Light
+92,Blink Stitch,60,"Stitches enemies along your path, dropping defense to 0 (3 turns). The more stitched, the harder (up to ATK ×1.1)!",Flicker,Light
+93,Snow Hut,80,Builds a snow hut: allies around take half damage and heal more the more of them are inside!,Torchlight,Light
+94,Bubble Float,60,Floats 5 soap bubbles on the board (3 turns). Enemies that touch one get popped on!,Springlight,Light
+95,Guiding Star,40,"This round, all allies see an aiming line. First to act: hits +30%; otherwise +15%!",Everlight,Light
+96,Shoulder Guard,60,"Shields the nearest ally with pads (3 turns): the closer, the sturdier (up to -40%), pushing enemies back!",Glitter,Light
+97,Call Back,80,Brings one fallen ally back at half HP!,Whitesun,Light
+98,Fiddler Claw,60,Sweeps the row on the side you face with a giant claw. KO'd enemies drop 2 gems!,Halo,Light
+99,Cupping Drain,60,"Cups the 2 nearest enemies for 3 turns, draining HP to heal. Drains more from healthier ones (ATK ×0.45 a turn)!",Bruise,Dark
+100,Four Shuriken,60,"Throws 4 shuriken up, down, left and right. Double damage if they hit after a wall bounce!",Umbra,Dark
+101,Curse Script,60,"Writes a charm on nearby enemies. The nearer the center, the heavier the 2 Curses (up to ATK ×0.6 each)!",Hollow,Dark
+102,Devil's Abacus,60,Pays 20% of your HP and adds triple that to a strike on the enemy with the most HP!,Abacus,Dark
+103,Smoke Bomb,60,Drops a smoke bomb here (3 turns). Allies in the smoke take half damage!,Shinobi,Dark
+104,Curtain Reel,60,"Reels in the curtain, pulling enemies in your row toward you!",Veil,Dark
+105,Crucible Pour,80,Pours molten copper into the cone ahead (3 turns; enemies in it take damage). Hotter for each fallen ally!,Kiln,Dark
+106,Curse Return,60,"Next enemy turn, enemies that ram your allies get 2 Curses. The higher their ATK, the heavier!",Rift,Dark
+107,Dark Feast,60,Drains nearby enemies. Half heals you; half is stored for your next strike!,Snake Eye,Dark
+108,Saturn's Ring,60,Saturn's ring: swings enemies on the ring around to the opposite side of you!,Nocturne,Dark
+109,Firstborn Flame,80,Burns away every Poison and sticky wall. Each one burned makes nearby enemies' Burn hotter (ATK ×0.35–0.65)!,Kagutsuchi,Fire
+110,Thunderbolt,60,"Pierces a vertical line. The fewer enemies on it, the harder (ATK ×3.0 on one)!",Takemika,Fire
+111,Tide Road,80,"The moment you release, pulls every enemy on screen to the center column and turns it into a tide road (allies speed up, 2 turns)!",Watatsumi,Water
+112,Purifying River,80,"A clear river runs sideways (3 turns): allies in it heal, enemies drift downstream!",Seoritsu,Water
+113,Roots Rise,80,Three roots rise in columns (3 turns). Enemies crossing them take damage and get pulled in!,Kukunochi,Leaf
+114,Earth Pusher,80,"Shoves with an earth board, breaking gimmicks ahead and pushing enemies. The more it pushes, the harder (ATK ×0.4–0.9)!",Haniyasu,Leaf
+115,Cave Door Opens,100,"The cave door opens: hits every enemy, ×2 on those under half HP. +10% gauge per KO!",Amateru,Light
+116,Drawbridge,80,Lowers a drawbridge ahead (3 turns). Allies crossing it get ×1.5 momentum!,Saruta,Light
+117,Calamity Swirl,100,"Calamity swirls: hits every enemy. The more enemies, the more all allies heal!",Magatsu,Dark
+118,Lunar Calendar,80,"A lunar calendar: cross, circle, then the whole board. The full moon delays enemies!",Tsukuyomi,Dark
+119,Bellows,60,"Doubles this shot’s smashes. When you stop, you explode — bigger for every smash you used!",Mahitotsu,Fire
+120,Fire Tape,60,A flaming tape measure shoots straight ahead. Farther enemies take harder hits!,Reach,Fire
+121,Peacock Spread,60,"Spreads peacock feathers. The more head-on, the harder (ATK ×1.2); enemies hit Burn!",Ashes,Fire
+122,Firecracker Chain,80,"Firecrackers pop on the nearest enemy and jump to those around it. More enemies, longer chain!",Burst,Fire
+123,Sea Lion Balls,60,Sets balls left and right (3 turns). Bump one and it flies into an enemy!,Ripple,Water
+124,Parent Tree,80,"Plants a sapling where an ally fell. Two rounds later, they return at full HP!",Elder,Leaf
+125,Popping Seeds,60,Seed pods burst and scatter around you. Next round they sprout and hurt enemies that touch them!,Sorrel,Leaf
+126,Stardust,60,"Scatters motes of light around you, one per combo so far! (Each hit adds +1 combo)",Uzume,Light
+127,Skylight,60,"Sun through a skylight. The more allies in the column, the more it heals; with none, ATK ×1.1 on enemies!",Sunbeam,Light
+128,Wooden Clappers,60,"Clack! Hits enemies in a cross. First to act this round: ATK ×1.5, and allies get an extra smash!",Eureka,Light
+129,Gathering Shadows,80,"Shadows race back from where you stopped (up to 3 spots), grinding down enemies on the way!",Kuraokami,Dark
+130,Glaring Stones,60,"Pays a little HP to pelt every visible enemy. The fewer you can see, the heavier each stone!",Bloodshot,Dark
+131,Wildfire Trail,60,Leaves wildfire along your path (2 turns). Enemies that step on it Burn!,Brushfire,Fire
+132,Robe of Flame,60,"A robe of fire until your next shot ends: Burns what you touch, hotter each touch (up to ATK ×0.6)!",Scarlet,Fire
+133,Click Beetle,60,"Leaps onto the farthest enemy. The farther the leap, the harder (up to ATK ×1.5). Burns those around!",Ricochet,Fire
+134,Meteor Fall,80,"Leaps high and crashes onto the enemy with the most HP. The farther you jump from, the harder (up to ATK ×3.2)!",Okitsuhiko,Fire
+135,Retrace,80,"Retraces every path your allies flew this round, hitting the enemies on them all over again!",Hayaakitsu,Water
+136,Springboard,60,Sets a springboard ahead (3 turns). Allies who jump from it heal allies where they land!,Spray,Water
+137,Hermit Shell,60,"Allies near the walls take half damage, up to 3 times!",Strand,Water
+138,Kudzu Vines,60,Kudzu vines pull in the 3 nearest enemies and tether them there for 2 turns!,Creeper,Leaf
+139,Watchtower Shot,80,"Snipes the farthest enemy from the watchtower. The farther, the harder!",Farsight,Light
+140,Mist Step,60,"Turns to mist and reappears behind the nearest enemy, striking it at once!",Slither,Dark
+141,Sky Firework,80,"Fireworks burst where enemies crowd most. Burns them; the more enemies, the harder (ATK ×1.0 with 4)!",Starburst,Fire
+142,Bonfire Festival,60,Lights a festival fire (2 turns). Allies who touch it make their next hit Burn!,Drumfire,Fire
+143,Lava Melt,80,Drops the defense of enemies ahead to 0 (3 turns) and Burns them. Tough ones melt best (ATK ×0.5)!,Scorch,Fire
+144,Quench,80,A quenching blow on the enemy with the least HP. ×2 if it's under half!,Temper,Fire
+145,Flame Split,80,"When you stop, half the damage this shot dealt rains down, split evenly among the enemies left!",Mikahayahi,Fire
+146,Ferry Across,60,"Ferries your farthest ally to your side. The farther they came, the harder their next strike (up to ×1.8)!",Ferryman,Water
+147,Seed Scatter,80,"Next round only, every ally leaves a seed where they shoot (once it ripens, you get another shot)!",Mitoshi,Leaf
+148,Splint,60,"Splints the nearest ally: a bigger heal the weaker they are, and they survive at 1 HP until the enemy turn!",Trellis,Leaf
+149,Seal of Approval,60,Stamps the 3 nearest enemies with a Mark (3 turns); the nearest one skips its next action!,Mentor,Light
+150,Boomerang,60,Throws a boomerang ahead. After the enemy turn it flies back and hits the band again (ATK ×1.1)!,Backlight,Light
+151,Vacuum,60,Sucks up every gem on the board. Gauge for each one!,Greed,Dark
+152,Ink Squirt,60,Squirts ink in a cone: Marks enemies and drops their defense to 0 — longer the closer (2–4 turns)!,Inkwash,Dark
+153,Rain of Fire,60,"Burns every enemy on the board (3 turns). The fewer there are, the hotter (ATK ×0.25–0.6 a turn)!",Homusubi,Fire
+154,Blowpipe,60,Burns and pushes enemies in the cone ahead. Already-burning ones flare up: ATK ×0.9 a turn!,Firebox,Fire
+155,Fuse Line,60,"Links Burning enemies with a fuse and pulls them in. The more linked, the harder (up to ATK ×1.2)!",Wildfire,Fire
+156,Riptide,80,Makes the nearest enemy Wet and launches it. Any enemy it slams into takes 150% of your ATK!,Toyotama,Water
+157,Evening Shower,60,An evening shower Wets every enemy and heals your allies — more the more enemies there are!,Squall,Water
+158,Spring Flush,40,"Spring water flows down a column, washing away gimmicks; heals allies in it more for each one washed!",Clearwater,Water
+159,Spore Burst,80,"Spores burst from the enemy with the most Poison, copying that much Poison onto the enemies around it!",Kayanohime,Leaf
+160,Poison Pull,60,Draws the Poison out of poisoned enemies — one strike per stack removed!,Horsetail,Leaf
+161,Every Corner,80,Light curves around to hit every enemy hidden from this ally’s sight!,Ishikori,Light
+162,Crystal Sight,80,"The crystal ball sees your next stop. Next shot, light falls where you stop!",Seer,Light
+163,Bell Chime,60,"The bell rings out three ways: Marks enemies on the lines, +5% gauge per Mark!",Chime,Light
+164,Lamplight,60,Drops every Marked enemy’s defense to 0 (3 turns) and extends their Mark by 3 turns!,Votive,Light
+165,Binary Stars,60,Stars burst around you and the nearest ally. Closer: stronger. Farther: wider. Both get ATK +20%!,Twinstar,Light
+166,Catcher's Mitt,60,"Next enemy turn, takes half the hits meant for the nearest ally, and heals half of that!",Effigy,Dark
+167,Burr Bugs,60,"Sticks burrs on every enemy. The more enemies, the heavier the Curse (up to ATK ×0.45)!",Rancor,Dark
+168,Straw Doll,80,"Curses the enemy with the most HP, more each round; at 5 Curses it skips its next action!",Midnight,Dark
+169,Dragon Breath,60,"Dragon fire Burns the band ahead. The closer to the mouth, the harder (ATK ×0.6)!",Blowtorch,Fire
+170,Wellspring,60,Leaves a wellspring here for 3 turns. Each time an ally touches it: gauge +20% (up to 3 per shot)!,Mizuhanome,Water
+171,Balance Scale,40,"Evens out allies' HP from the healthy to the hurt, then heals everyone a little!",Brimful,Water
+172,Fire Hose,60,"Hoses water ahead. When the washed-away enemies bump into each other, you get gauge!",Torrent,Water
+173,Wind-up Spring,40,Winds up the whole gauge. Each bar wound boosts your next shot’s hits and speed!,Backwater,Water
+174,Reel Together,60,"Reels in the 2 nearest enemies and slams them together. The farther apart, the harder!",Brook,Water
+175,Shake Down,60,"Shakes every enemy with mistletoe on it, knocking loose one gem per stage it has grown!",Kijimuna,Leaf
+176,Rebloom,60,"Blooms in a diamond for damage — and blooms again next round, hitting whoever's inside!",Perennial,Leaf
+177,Bamboo Grove,60,"Grows 3 bamboo stalks around you (3 turns), shoving enemies aside. The bamboo acts as walls!",Thicket,Leaf
+178,Kaleidoscope,60,"Six flowers of light bloom around you. The more with enemies inside, the harder (ATK ×1.5 with 5). Marks, too!",Skylight,Light
+179,Offering,60,Offers up your whole gauge. The nearest ally's next hit gets that much stronger!,Altar,Dark
+180,Hourglass Sip,60,Drains nearby enemies into gauge for 3 turns; on turn 3 it drains ATK ×0.4 and delays them!,Thirst,Dark
+181,Fire Dice,60,Rolls 1 of 3: a big blast around you / party gauge +40% / this shot’s power ×2!,Hoderi,Fire
+182,Into the Fire,60,Feeds nearby traps to the fire. +10% gauge for each one broken!,Fireside,Fire
+183,Headliner Drum,80,Boom! Hits enemies in the half circle ahead. Doubled if you're the last to act this round!,Finale,Fire
+184,Yo-yo Return,60,"Dashes out at ×1.5 momentum, then snaps back to where you shot from — hitting both ways!",Ebb & Flow,Water
+185,Cord Tie,60,Ties a cord to the farthest ally (3 turns). Enemies passing between you take damage!,Ribbon,Water
+186,Seedlings,60,Plants a seedling by each ally (3 turns). Each turn it heals the allies nearby!,Seedbed,Leaf
+187,Young Bamboo,60,Grows 3 young-bamboo spring pads above you (3 turns). An ally that stops on one launches ×1.6 faster next shot. Enemies in the column get knocked aside!,Bamboo,Leaf
+188,Shredder,80,Shreds enemies ahead. Stronger for each miss this round; KOs drop gems!,Leafmold,Leaf
+189,Sunrise,80,"Every ally who hasn’t moved yet smashes once on the spot, right now (costs no move and no smashes)!",Naganaki,Light
+190,Pinky Promise,60,"Pinky-swear with the nearest ally: both heal and take less damage (the closer, up to -60%)!",Pledge,Light
+191,Gear Ring,80,"A ring of gears turns. Enemies touching each other mesh for ATK ×1.4. Gauge for each, too!",Sun Disc,Light
+192,Wedge Lock,60,"For this shot and the next, this ally’s vow holds even if broken!",Nue,Dark
+193,Dump Truck Rush,60,"Charges like a dump truck at ×1.5 momentum, smashing traps along the way!",Proxy,Dark
+194,Reckless Blast,60,"Breaks your own vow, and the release explodes around you! (Small blast with no vow)",Desperado,Dark
+195,Stapled Pact,60,"Staples you to the nearest ally (3 turns). When either shoots, both fly!",Bloodseal,Dark
+196,Smoke Signal,60,"Sends up smoke to call allies to you. The farther they came, the harder their next hit!",Signal,Fire
+197,Gem Crack,60,Cracks up to 3 gems with a pickaxe. Sparks fly at enemies around each one!,Firesteel,Fire
+198,Wave Swap,60,"Swaps places with the nearest ally. The farther apart, the harder their next strike (up to ×1.6)!",Undertow,Water
+199,Drift Ice,60,Floats drift ice across a row (3 turns). Enemies on it slowly drift sideways!,Sway,Water
+200,Fishing Net,60,"Throws a net, hauling every enemy in the cone ahead right in front of you!",Buoy,Water
+201,Groundwork,80,"Replants every ally around this one. On the next move, everyone shoots from here!",Isotakeru,Leaf
+202,Full Bloom,80,"Sets off everything your allies have placed on the board, once, right where it is!",Sakuyahime,Leaf
+203,Hedge Wall,60,Plants one upright hedge ahead in your shot’s direction (3 turns). It's a wall — everyone bounces off it!,Boxwood,Leaf
+204,Cross Sweep,60,"Sweeps a horizontal line. The more enemies in the row, the harder each is hit!",Sheaf,Leaf
+205,Roller Glide,60,"On your next shot your momentum barely fades, and you scoop up gems you pass!",Wayside,Leaf
+206,Armor Strip,80,"For 3 turns, every enemy's defense drops to 0. Tough enemies: 5 turns!",Bounty,Leaf
+207,Starlight,80,"Light rains on every enemy inside your 3 allies’ triangle — the wider it is, the stronger!",Mikaboshi,Light
+208,Even Footing,80,"For this round, every ally’s base ATK rises to match the highest!",Omoikane,Light
+209,Expose the Wound,80,Turns every enemy into an element you hit for weak damage. Lasts longer the fewer there are (2–4 turns)!,Appraiser,Light
+210,Guide Magnet,60,Pulls only the enemies you have the edge on toward you!,Polaris,Light
+211,First Sunrise,60,Hits every enemy above you. Stronger in the early rounds; first to act this round: gauge +20%!,First Sun,Light
+212,Bewilder,60,Every enemy charges the wrong way on its next action only (they resist it for a while after)!,Haunt,Dark
+213,Lone Wolf,60,"The fewer allies near you, the higher your ATK for 3 turns (up to +60%)!",Stray,Dark
+214,Vault Breaker,80,"Doubles your weight until your next shot ends. The lower your HP, the harder you ram (up to ×2)!",Wrath,Fire
+215,Hot Water Bottle,60,"Sets down a hot-water bottle (3 turns): allies around heal each turn, more the more there are!",Cozy,Fire
+216,Collect the Debt,80,"Puts a Mark on the enemy that has wounded you most. This round, any hit on it wins back every wound it dealt!",Shiotsuchi,Water
+217,Rebound Tide,60,"No damage until the next enemy turn ends. The more you’re struck, the harder your counterblow!",Isora,Water
+218,Orca Wave,60,An orca wave Wets enemies in the column and lifts them — higher the closer they are!,Billow,Water
+219,Otter Slide,60,The nearest ally deflects the next ram. The attacker slides off sideways!,Flow,Water
+220,Ring Toss,60,"Tosses a float ring to the farthest enemy, soaking it and yanking it in!",Jetty,Water
+221,Shoot Up,60,"All allies' max HP +10% for this battle, plus a little healing!",Sapling,Leaf
+222,Mop Up,40,Mops gimmicks from around your allies and leaves grass — lasting longer for each one wiped (2–5 turns)!,Turf,Leaf
+223,Torii Gate,60,Raises a torii gate here (3 turns). Allies who pass through take half damage until the enemy turn ends!,Holy Tree,Leaf
+224,Lighthouse Beam,60,"A lighthouse beam stretches across, Marking enemies on it. More enemies, stronger guard (up to -65%)!",Lighthouse,Light
+225,Parasol Spin,60,"Twirls a parasol: next enemy turn, enemies hitting allies bounce off. Last to act this round: -60% damage!",Awning,Light
+226,Invoice,80,"Sends an invoice to the farthest enemy: Marked, and two rounds later the bill hits hard!",Moonless,Dark
+227,Last Ember,60,"Once, get back up with 1 HP after falling. The lower your HP, the hotter the Burn around you (up to ATK ×0.5)!",Afterglow,Dark
+228,Torch Relay,80,"After your shot, the nearest ally can shoot again right away!",Hosuseri,Fire
+229,Buried Embers,80,"Buries a fire in the ashes. Two rounds later, it flares up right there!",Smolder,Fire
+230,Welcome Fire,80,"Raises a festival tower (2 turns). On the enemy turn, fire meets any enemy that comes near!",Homefire,Fire
+231,Shoal Surge,80,Every nearby ally launches with you at the same angle and speed (it costs them no move)!,Mikumari,Water
+232,Rising Tide,60,"The tide comes in: allies below you take half damage (until the enemy turn ends), enemies below you get Wet!",Tideturn,Water
+233,Scion,40,"For this round, this ally also uses the nearest ally’s ability!",Kamimusubi,Leaf
+234,Deep Roots,80,"Until the next enemy turn ends, every ally survives a lethal blow at 1 HP!",Ukemochi,Leaf
+235,Mycelium Net,60,"Links allies with mycelium (3 turns): damage is shared by all, and everyone heals a little each turn!",Rootlet,Leaf
+236,Named Arrows,80,Three arrows of light fly at your named enemy from anywhere on the board (the named ×2 applies)!,Yatagarasu,Light
+237,Morning Star,60,"The morning star twinkles: Marks every enemy; the farther they are, the harder (up to ATK ×0.6)!",Aurora,Light
+238,Tribute,80,Takes a little HP from each ally and blasts the cone ahead with the total!,Tribute,Dark
+239,Swap,60,Trade places with the furthest enemy.,Changeling,Dark
+240,Body Double,60,"Puts a body double next to the most hurt ally (3 turns). When it breaks, it hits enemies around!",Lookalike,Dark
+241,Challenge Letter,60,"Sends a challenge to the enemy with the most HP (Mark, 3 turns). Beat it for +40% gauge!",Avenger,Dark
+242,Beaten Path,60,Your path becomes a grass trail (3 turns). Allies on it keep their speed!,Trail,Leaf
+243,Letter,40,Sends a letter to the next ally to shoot. If they fulfill their call: +40% gauge (no call: +10%; missed call: 0)!,Tidings,Light
+244,Firefly Glow,60,"Fireflies drift. This round, allies who shoot without a full pull get +10% gauge when they stop!",Glimmer,Light
+245,Touchstone,60,Makes enemies in a cross weak to you and hits them. ATK ×1.2 on ones already weak to you!,Eagle Eye,Light
+246,Dark Credit,60,"Strikes the nearest enemy — the lower the gauge after firing, the harder (harder still in debt)!",Yomotsu,Dark
+247,Payback,60,"Pays your stored grudge back to every enemy that hit your allies this battle, shared by how hard each hit!",Aramitama,Dark
+248,Soul Call,80,"Fires every fallen ally’s special in a row (each at half power). If no one has fallen, strikes nearby enemies!",Izanami,Dark
+249,Alarm Bell,80,"Rings the alarm: this round, allies yet to move get faster and stronger — more the fewer (up to ×1.4)!",Alarm,Dark
+250,Delayed Claws,80,"Claw marks on the 3 nearest enemies. After the enemy turn, the wounds open for big damage!",Clawmark,Dark
+251,Crimson Blaze,80,"Ruby flames fill a wide circle. Stronger for each special your team has used this stage (ATK ×1.6–2.8). Burns, too!",Ruby,Fire
+252,Jade Roots,80,Jade roots race across and down to the board's edges. Farther enemies take more (up to ATK ×2.6)!,Jade,Leaf
+253,Lapis Rain,80,"Lapis rain falls twice: Wets and hits every enemy, and heals every ally a little each time!",Lapis,Water
+254,Canopy Light,80,Light from the summit floods the board. Enemies below you take double!,Canopy,Light
+255,Heaven Arrows,80,Looses 3 arrows to the board's edge. Farther enemies take more (ATK ×1.6–2.6) and get Marked!,Hoori,Leaf
+256,Forge Hammer,80,"Hammers the nearest enemy (ATK ×2.4) and blasts others away; after the enemy turn, it strikes the same spot again (ATK ×1.6)!",Kanayago,Fire
+257,Heaven's Edge,80,"One stroke cuts across the board. Heavy damage to the whole row, double vs Wet enemies!",Ohabari,Water
+258,Thunder Drums,80,Lightning strikes 3 times at random enemies across the board. Double damage vs Wet!,Narukami,Light
+259,Great Jaws,80,"Bites the enemy with the most HP! On a kill, it leaps to the next one (up to 3).",Makami,Dark
