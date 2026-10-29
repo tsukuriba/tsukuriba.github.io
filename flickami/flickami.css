@@ -50,3 +50,9 @@ header.site.wide { margin: 0 auto; padding: 16px 16px 12px; max-width: 980px; }
 main.wide > h1:first-child { margin-top: 28px; }
 table.spec th span[lang="en"] { display: block; font-weight: 400; font-size: 13px; }
 table.spec td { overflow-wrap: anywhere; }
+/* 新しくなったこと（版ごとの札）。hidden の札は出さない（display を書くと hidden が効かなくなるので 明記） */
+.updates { display: grid; gap: 14px; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); margin-top: 8px; }
+.update { background: var(--card); border: 1px solid var(--rule); border-radius: 12px; padding: 16px 18px; }
+.update[hidden], [data-from][hidden] { display: none; }
+.update h3 { margin: 0 0 6px; font-size: 17px; }
+.update ul { margin: 0; font-size: 15px; }
