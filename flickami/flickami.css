@@ -56,3 +56,34 @@ table.spec td { overflow-wrap: anywhere; }
 .update[hidden], [data-from][hidden] { display: none; }
 .update h3 { margin: 0 0 6px; font-size: 17px; }
 .update ul { margin: 0; font-size: 15px; }
+/* 2026-11-03 impeccable の点検からの直し（案）。この3ページだけに効く。
+   見出しの左の線をやめ、大きさと あきで段をつける。ヘッダーの並びは語の途中で折らない。 */
+header.site.wide nav { flex-wrap: wrap; gap: 0 14px; }
+@media (max-width: 390px) { header.site.wide nav { font-size: 13px; } }
+header.site.wide nav a { white-space: nowrap; padding: 8px 0; }
+header.site a.name .yomi { margin-left: 8px; font-size: 13px; font-weight: 400; color: var(--muted); letter-spacing: 0.04em; }
+.hero img { max-height: min(56vh, 480px); }
+@media (max-width: 600px) { .hero img { aspect-ratio: 16 / 9; object-position: 50% 50%; } }
+.facts { gap: 0; margin-top: 4px; }
+.facts li { border: 0; border-radius: 0; padding: 0; background: none; font-size: 14px; }
+.facts li:not(:last-child)::after { content: "・"; }
+.facts:lang(en) li:not(:last-child)::after { content: " · "; white-space: pre; }
+.wide h2 { border-left: 0; padding-left: 0; font-size: 22px; line-height: 1.4; margin: 56px 0 14px; }
+.features { grid-template-columns: repeat(6, 1fr); }
+.features section:nth-child(1) { grid-column: span 6; padding: 22px 24px; }
+.features section:nth-child(1) h3 { font-size: 21px; }
+.features section:nth-child(1) p { font-size: 16px; max-width: 40em; }
+.features section:nth-child(2), .features section:nth-child(3) { grid-column: span 3; }
+.features section:nth-child(n+4) { grid-column: span 2; background: none; border: 0; border-top: 1px solid var(--rule); border-radius: 0; padding: 14px 0 0; }
+.features section:nth-child(n+4) h3 { font-size: 16px; }
+@media (max-width: 720px) { .features { grid-template-columns: 1fr; } .features section:nth-child(n) { grid-column: auto; } }
+.features h3, .update h3 { text-wrap: balance; }
+.wide p, .features p, .update li { text-wrap: pretty; }
+.cta-end { margin-top: 40px; }
+::selection { background: color-mix(in srgb, var(--accent) 35%, transparent); }
+:root { accent-color: var(--accent); }
+/* 素材ページ：スクショは縦長のまま大きく見せる（150px の箱に縮めない） */
+.assets.shotgrid { grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); }
+.assets.shotgrid img { height: auto; aspect-ratio: 600 / 1304; object-fit: cover; background: none; }
+.two { align-items: start; }
+.nobr { white-space: nowrap; }
